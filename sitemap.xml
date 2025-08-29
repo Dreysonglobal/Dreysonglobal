@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://dreysonglobal.online/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/dg.png</image:loc>
+      <image:title>Dreyson Global Logo</image:title>
+      <image:caption>Professional Website Developer & App Developer in Lagos, Nigeria</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://dreysonglobal.online/about.html</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/director.jpg</image:loc>
+      <image:title>Kingsley Amaechi - Website Developer & App Developer</image:title>
+      <image:caption>Meet our expert website developer and app developer in Lagos</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Services Page -->
+  <url>
+    <loc>https://dreysonglobal.online/services.html</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/dg.png</image:loc>
+      <image:title>Website Developer & App Developer Services</image:title>
+      <image:caption>Professional web development and mobile app development services</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Portfolio Page -->
+  <url>
+    <loc>https://dreysonglobal.online/portfolio.html</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/vanguardoil.png</image:loc>
+      <image:title>Portfolio - Website Developer & App Developer Projects</image:title>
+      <image:caption>View our successful web development and mobile app projects</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Client Projects (External) -->
+  <url>
+    <loc>https://dreysonglobal.github.io/oilrig/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/vanguardoil.png</image:loc>
+      <image:title>Vanguard Oil - Corporate Website</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://pheonixhc.co.uk</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/pheonix.jpg</image:loc>
+      <image:title>Pheonix Machines - E-commerce Platform</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dejiandkola.com</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/dejiandkola.jpeg</image:loc>
+      <image:title>Deji & Kola - E-commerce Platform</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://bamflux.shop</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/bamf.jpg</image:loc>
+      <image:title>Bamf Luxury Jerseys - Fashion E-commerce</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://linahealthcare.github.io/linahc</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dreysonglobal.online/images/Lina.webp</image:loc>
+      <image:title>Lina Health Care - Healthcare Platform</image:title>
+    </image:image>
+  </url>
+</urlset>
